@@ -23,6 +23,7 @@ encoder = SentenceTransformer("intfloat/multilingual-e5-small")
 ```
 
 日本語対応の`intfloat/multilingual-e5-small`を利用。  
+21の文章をエンべディングするのに、10.6sほど。(by macbook air)  
 
 `query = "富を得るための方法が知りたいです。"`に対する結果。  
 

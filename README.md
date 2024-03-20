@@ -7,3 +7,7 @@ qdrantの設定と、簡単な使い方
 
 ## 日本語の独自データでのセマンティック検索
 [japanese owndata](./docs/semantic_search_owndata.md)  
+
+## メモ
+- 文章をchankに切って検索する方法が知りたい。  
+- BM25などとのhybrid検索の方法が知りたい。  
