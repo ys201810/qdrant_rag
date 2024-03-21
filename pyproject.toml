@@ -10,6 +10,11 @@ packages = [{include = "qdrant_rag"}]
 python = "^3.10"
 sentence-transformers = "^2.5.1"
 qdrant-client = "^1.8.0"
+numpy = "^1.26.4"
+pandas = "^2.2.1"
+tqdm = "^4.66.2"
+fastapi = "^0.110.0"
+uvicorn = "^0.29.0"
 
 
 [build-system]
