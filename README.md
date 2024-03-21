@@ -3,7 +3,7 @@
 
 ## セマンティック検索のチュートリアル  
 qdrantの設定と、簡単な使い方  
-[semantic search tutorial](./docs/semantic_search_tutorial.md)  
+[semantic search tutorial](./docs/tutorial_1_semantic_search.md)  
 
 ## 日本語の独自データでのセマンティック検索
 [japanese owndata](./docs/semantic_search_owndata.md)  
